@@ -1,0 +1,16 @@
+.box {
+    width: 80px;
+    height: 80px;
+    border-radius: 5px;
+    background-color: blue;
+
+}
+
+.container {
+     display: flex;
+    
+    gap: 10px;
+    
+    flex-wrap: wrap;
+    
+}
